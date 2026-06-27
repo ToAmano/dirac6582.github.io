@@ -11,6 +11,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 -->
 
 個人のメモ書き用サイトです．内容が間違っている場合があります．現在大半の内容が加筆修正中です．
+ブログは[こちら](https://toamano.jp/)へ移動中です．
 
 
 ---
